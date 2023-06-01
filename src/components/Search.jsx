@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../styles/Search.module.css";
+import "../styles/Styles.module.css";
 
 export const Search = () => {
     const [id, setId] = useState('');
