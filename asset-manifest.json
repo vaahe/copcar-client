@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/copcar-client/static/css/main.d0ac1f69.css",
+    "main.css": "/copcar-client/static/css/main.72d1e746.css",
     "main.js": "/copcar-client/static/js/main.e5f7a01c.js",
     "static/js/787.2af06d3b.chunk.js": "/copcar-client/static/js/787.2af06d3b.chunk.js",
     "index.html": "/copcar-client/index.html",
-    "main.d0ac1f69.css.map": "/copcar-client/static/css/main.d0ac1f69.css.map",
+    "main.72d1e746.css.map": "/copcar-client/static/css/main.72d1e746.css.map",
     "main.e5f7a01c.js.map": "/copcar-client/static/js/main.e5f7a01c.js.map",
     "787.2af06d3b.chunk.js.map": "/copcar-client/static/js/787.2af06d3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0ac1f69.css",
+    "static/css/main.72d1e746.css",
     "static/js/main.e5f7a01c.js"
   ]
 }
